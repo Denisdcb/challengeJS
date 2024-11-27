@@ -9,7 +9,7 @@ console.log('Pourboire 1 : ' + pouboire + '€');
 let total = facture + pouboire ;
 console.log('Total 1 : ' + total + '€')
 
-// Données de test 1
+// Données de test 2
 
 facture = 40 ;
 
@@ -20,7 +20,7 @@ console.log('Pourboire 2 : ' + pouboire + '€');
 total = facture + pouboire ;
 console.log('Total 2 : ' + total + '€')
 
-// Données de test 1
+// Données de test 3
 
 facture = 430 ;
 

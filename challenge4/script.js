@@ -44,13 +44,14 @@ console.log(winner);
 
 // Données 3
 
-dauphinsScores = [96, 108, 89];
-koalasScores = [88, 91, 106];
+dauphinsScores = [97, 112, 101];
+koalasScores = [109, 95, 106];
 
 winner = '';
 
 moyDauphinsScores = (dauphinsScores[0] + dauphinsScores[1] + dauphinsScores[2]) / 3 ;
 moyKoalasScores = (koalasScores[0] + koalasScores[1] + koalasScores[2]) / 3;
+
 
 if(moyDauphinsScores === moyKoalasScores) {
     winner = 'Equality !!';
